@@ -1,0 +1,1 @@
+UAT-RESTRICTED-CONTENT-20260910: this dummy marker must never enter the virtual Git object database.
