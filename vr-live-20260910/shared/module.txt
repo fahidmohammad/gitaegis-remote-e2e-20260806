@@ -5,3 +5,5 @@ Recipient UAT branch edit 20260911.
 Fresh push after replay recovery fix 20260911.
 
 Public UAT Git endpoint qualification 20260911.
+
+Lisa recipient UAT change on 2026-09-11.
