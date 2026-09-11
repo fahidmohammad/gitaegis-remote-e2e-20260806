@@ -1,0 +1,1 @@
+Recipient contribution after scope rotation and source sync.
